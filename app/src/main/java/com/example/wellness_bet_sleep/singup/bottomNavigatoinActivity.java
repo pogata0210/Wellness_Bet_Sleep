@@ -1,4 +1,4 @@
-package com.example.wellness_bet_sleep;
+package com.example.wellness_bet_sleep.singup;
 
 import android.support.annotation.NonNull;
 import android.support.design.widget.BottomNavigationView;
@@ -6,6 +6,11 @@ import android.support.v4.app.Fragment;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MenuItem;
+
+import com.example.wellness_bet_sleep.R;
+import com.example.wellness_bet_sleep.fragmentsNav.dashBoardFragment;
+import com.example.wellness_bet_sleep.fragmentsNav.homeFragment;
+import com.example.wellness_bet_sleep.fragmentsNav.roomsFragment;
 
 public class bottomNavigatoinActivity extends AppCompatActivity {
 
