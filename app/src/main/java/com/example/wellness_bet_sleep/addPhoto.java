@@ -41,7 +41,7 @@ public class addPhoto extends AppCompatActivity {
 
          /**   @Override
             protected void onActivityResult(int requestCode, int resultCode, Intent data){
-                addPhoto.super.onActivityResult(requestCode, resultCode, data); 
+                addPhoto.super.onActivityResult(requestCode, resultCode, data);
             } **/
         });
     }
