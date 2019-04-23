@@ -1,4 +1,4 @@
-package com.example.wellness_bet_sleep;
+package com.example.wellness_bet_sleep.singup;
 
 import android.content.Intent;
 import android.provider.MediaStore;
@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.support.v7.widget.CardView;
 import android.view.View;
 import android.widget.ImageView;
+
+import com.example.wellness_bet_sleep.R;
 
 public class addPhoto extends AppCompatActivity {
     private static  final int RESULT_LOAD_IMAGE =1;
